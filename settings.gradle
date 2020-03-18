@@ -1,3 +1,3 @@
 rootProject.name='k-util'
 include ':app'
-include ':kutil'
+include ':k-util-library'
